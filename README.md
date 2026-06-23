@@ -1,4 +1,4 @@
 # hello
 my first repository 
 now we are testing 
-wanna conflict?
+damn sure I want conflict
